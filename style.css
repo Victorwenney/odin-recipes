@@ -1,0 +1,58 @@
+
+body {
+    background-color: rgb(192, 252, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.principal,
+.receitas {
+    box-sizing: border-box;
+    background-color: rgb(176, 255, 188);
+    width: 1500px;
+    margin: 25px auto;   
+    border-radius: 15px;
+    padding: 15px 50px;
+}
+
+.principal {
+    text-align: center;
+    width: 1450px;
+}
+
+.receitas {
+    width: 600px;
+}
+
+.titulo,
+.home-button {
+    text-align: center;
+}
+
+img,
+button {
+    border-radius: 15px;
+}
+
+button {
+    background-color: wheat;
+}
+
+.imgreceita {
+    width: 500px;
+}
+
+.imagem{
+    text-align: center;
+}
+
+.opcao {
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+
+.imgmain {
+    width: 400px;
+    height: 650px;
+}
